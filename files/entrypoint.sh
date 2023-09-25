@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 # turn on bash's job control
 set -m
